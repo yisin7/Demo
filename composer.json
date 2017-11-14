@@ -1,0 +1,20 @@
+{
+    "name": "yisin/demo",
+    "description": "This is a demo",
+    "require": {
+        "houdunwang/arr": "*"
+    },
+    "authors": [
+        {
+            "name": "Yisin7",
+            "email": "dthxtep@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
